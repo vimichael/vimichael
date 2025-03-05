@@ -1,7 +1,7 @@
 ## About Me:
 Hi! I'm a computer science student and junior software engineer. I love to listen to music, make video games and configure my text editor!
 
-Currently Building: 3D Engine with zig and sokol
+Currently Building: Game w/ haskell
 
 ## Talk to me about...
 - NeoVim
