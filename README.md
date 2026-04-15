@@ -4,7 +4,7 @@ Hi! I'm a computer science student and junior software engineer. I love to liste
 ## Talk to me about...
 - NeoVim
 - New programming languages
-- game development
+- Game development
 - Low level design
 
 One of my favorite hobbies is learning new programming languages. Here is a list of the ones I know (in no particular order):
